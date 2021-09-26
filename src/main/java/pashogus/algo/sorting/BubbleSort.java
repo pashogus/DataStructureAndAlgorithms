@@ -3,6 +3,7 @@ package pashogus.algo.sorting;
 public class BubbleSort {
 	
 	 int data[] ;
+	 
 	
 	public BubbleSort(int inputData[])
 	{
